@@ -31,7 +31,14 @@ I am a Full Stack Developer from India. Passionate about technology and coding, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <!-- Add your favorite languages and tools in a similar manner -->
 </div>
+
 :fire: My Stats :
+![AIMalvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIMalvin&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIMalvin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AIMalvin&theme=default)
 
 
 :writing_hand: Blog Posts :
