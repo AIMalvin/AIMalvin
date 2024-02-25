@@ -22,14 +22,14 @@ Connect with me:
   <!-- Add your favorite languages and tools in a similar manner -->
 </div>
 
-:fire: My Stats :
-<div>
+### :fire: My Stats :
+<br>
 ![AIMalvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIMalvin&show_icons=true&theme=radical)
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIMalvin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AIMalvin&theme=default)
+
 
 
 :writing_hand: Blog Posts :
