@@ -15,17 +15,7 @@ Connect with me:
   </a>
 </div>
 😄 About Me:
-I am a Full Stack Developer from India. Passionate about technology and coding, I love to experiment with new technologies and build innovative projects.
 
-🔭 I’m currently working on web development projects using JavaScript, React, and Node.js.
-🌱 I’m currently learning about cloud computing and AI.
-👯 I’m looking to collaborate on open source projects or tech blogs.
-🤔 I’m looking for help with advanced Python programming.
-💬 Ask me about anything tech-related, I'm happy to help.
-📫 How to reach me: your-email@domain.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I love to play chess and solve puzzles in my free time.
-🚀 Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -33,10 +23,11 @@ I am a Full Stack Developer from India. Passionate about technology and coding, 
 </div>
 
 :fire: My Stats :
+<div>
 ![AIMalvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIMalvin&show_icons=true&theme=radical)
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIMalvin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AIMalvin&theme=default)
 
