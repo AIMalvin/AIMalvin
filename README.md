@@ -34,4 +34,4 @@
 </p>
 
 <h2 align="center">:writing_hand: Blog Posts :</h2>
-<p align="center"> <!-- BLOG-POST-LIST:START --> <!-- The markdown here will be automatically populated with your latest blog posts --> <!-- BLOG-POST-LIST:END --> </p>
+<p align="center"> <!-- BLOG-POST-LIST:START --> <!-- The markdown here will be automatically populated with your latest 
