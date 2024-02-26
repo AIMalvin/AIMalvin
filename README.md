@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Malvin! 👋</h1>
+<h1 align="center">Hello, I'm Malvin! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
