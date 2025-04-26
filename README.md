@@ -9,10 +9,10 @@
   <a href="https://www.linkedin.com/in/malvin-noel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://huggingface.co/AIMalvin">
+  <a href="https://huggingface.co/malvin-ai">
     <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge"/>
   </a>
-  <a href="https://aimalvin.github.io/">
+  <a href="https://www.malvinnoel.com/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
